@@ -10,7 +10,7 @@ How to enter your code for Amazon Prime Video?
       :align: center
       :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: get-started.png
       :width: 350px
       :align: center
       :height: 100px
